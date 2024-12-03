@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/hilalkh52" target="blank"><img src="https://img.shields.io/twitter/follow/hilalkh52?logo=twitter&style=for-the-badge" alt="hilalkh52" /></a> </p>
 
-- 🌱 I’m currently learning **Machine Learning , Django and Other AI technologies**
+- 🌱 I’m currently learning **Machine Learning , Deep Learning and Other AI technologies**
 
 - 👨‍💻 All of my projects are available at [github.com/hilalkhan1](github.com/hilalkhan1)
 
