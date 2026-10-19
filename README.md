@@ -13,7 +13,7 @@
 
 ### Professional experience
 
-#### AI & Automation Engineer, [Digital TEN X](https://digital10x.co.uk) · *Jun 2026 – Present*
+#### AI & Automation Engineer, [Digital TEN X](https://digitaltenx.qa/) · *Jun 2026 – Present*
 I lead AI and automation work across the agency, from internal SaaS products to how client websites are built and delivered.
 
 - **Building AI-powered products.** I design, build and deploy internal SaaS end to end, from architecture and data model to CI/CD and production hosting. The work includes LLM content pipelines, CRM and marketing tools, and client-site management.
