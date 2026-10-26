@@ -86,5 +86,5 @@ I lead AI and automation work across the agency, from internal SaaS products to 
 
 - **BS Artificial Intelligence**, Abdul Wali Khan University Mardan (2021–2025)
 - **AWS Certified AI Practitioner**
-- **Claude Certified Application Developer**
+- **Claude Certified Developer – Foundations**
 - Advanced AI Bootcamp (Deep Neural Networks), GIK Institute · Machine Learning Specialization, Coursera · CS50's Introduction to AI with Python, Harvard
