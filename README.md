@@ -63,8 +63,8 @@ I lead AI and automation work across the agency, from internal SaaS products to 
 
 | Area | Tools |
 |---|---|
-| **LLMs & agents** | Claude API · Claude Agent SDK · Claude Code (custom skills) · Groq · structured JSON output · prompt pipelines with human approval |
-| **Machine learning** | PyTorch · TensorFlow · scikit-learn · Hugging Face Transformers · YOLO · OpenCV · pandas · NumPy |
+| **LLMs & agents** | Claude API · Claude Agent SDK · Claude Code (custom skills) · MCP · Groq · structured JSON output · prompt pipelines with human approval |
+| **Machine learning** | PyTorch · TensorFlow · Keras · scikit-learn · Hugging Face Transformers · YOLO · OpenCV · pandas · NumPy |
 | **Speech, vision & media** | Whisper (whisper.cpp) · ffmpeg · yt-dlp · Workers AI (FLUX image generation) |
 | **Workflow automation** | n8n · Cloudflare Workflows & Queues · GitHub Actions · cron-driven job queues |
 | **Browser automation & QA** | Playwright · headless Chrome (CDP) · visual and computed-style regression checks |
@@ -84,7 +84,10 @@ I lead AI and automation work across the agency, from internal SaaS products to 
 
 ### Education & certifications
 
-- **BS Artificial Intelligence**, Abdul Wali Khan University Mardan (2021–2025)
-- **AWS Certified AI Practitioner**
-- **Claude Certified Developer – Foundations**
-- Advanced AI Bootcamp (Deep Neural Networks), GIK Institute · Machine Learning Specialization, Coursera · CS50's Introduction to AI with Python, Harvard
+- **BS Computer Science (Artificial Intelligence)**, Abdul Wali Khan University Mardan (2021–2025) · CGPA 3.37/4.00, top 10% of class
+- **AWS Certified AI Practitioner** · **Claude Certified Developer – Foundations**
+- Advanced Deep Neural Networks Bootcamp, GIKI · Machine Learning Specialization, DeepLearning.AI & Stanford · CS50's Introduction to AI with Python, Harvard · CS50's Introduction to Programming with Python, Harvard · CS50's Introduction to Computer Science, Harvard · C and C++ Programming Specialization, Coursera
+
+### Honors
+
+- 🏆 **Winner, NeoHacks 2025 AI Hackathon** (GIKI) · Top 3, Speed Programming, SOFTCOM'25 (GIKI) · Top 10, Speed Programming, SOFTCOM'23 (GIKI) · Prime Minister's Laptop Scheme Awardee (2023)
